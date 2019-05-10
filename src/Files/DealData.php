@@ -1,6 +1,6 @@
 <?php
 
-namespace LinkDoc\Files;
+namespace EighthRoute\Files;
 
 
 class DealData
